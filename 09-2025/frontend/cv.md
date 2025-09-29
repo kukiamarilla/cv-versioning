@@ -7,9 +7,6 @@
 Senior Frontend Developer with 12+ years of experience building user-centric applications across web, mobile, and desktop platforms. Expert in modern frontend frameworks, UI/UX design, performance optimization, and component-driven development. Skilled in translating design prototypes into high-quality, maintainable code with a strong focus on scalability and performance.
 
 
-
-
-
 ## Top Skills <small>(over 5 years of professional experience)</small>
 
 **Backend Development:** Laravel, TypeScript, Node.js, Express, NestJS, PHP, Python, Django, Flask, Express.js, Java, RabbitMQ, Kafka.<br>

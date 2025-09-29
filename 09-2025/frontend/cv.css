@@ -1,0 +1,14 @@
+.markdown-preview h1 {
+  border-bottom: 1px #ccc solid;
+
+}
+
+.markdown-preview small, .markdown-preview em{
+  color: #555
+}
+
+.markdown-preview p, .markdown-preview li {
+  font-size: 10px;
+  line-height: 1.4;
+
+}
