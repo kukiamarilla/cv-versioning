@@ -9,16 +9,15 @@ Senior Frontend Developer with 12+ years of experience building user-centric app
 
 ## Top Skills <small>(over 5 years of professional experience)</small>
 
+## Backend, IA and Data Specific Skills
+
 **Backend Development:** Laravel, TypeScript, Node.js, Express, NestJS, PHP, Python, Django, Flask, Express.js, Java, RabbitMQ, Kafka.<br>
-**Frontend Development:** HTML5, CSS3, JavaScript, TypeScript, React.js, React Native, Redux, Vue.js, Vuex, Android Studio (Java), Lottie, Expo, Storybook.<br>
 **DevOps & Cloud Solutions:** AWS (EC2, EKS, EBS, Secrets, CloudWatch, RDS), Kubernetes, Terraform, Docker, Bash, Zsh, GitHub Actions, Jenkins, DigitalOcean, OpenTelemetry, ArgoCD, Sentry.<br>
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis.<br>
 **Project Management & Methodologies:** JIRA, Kanban, Scrum, ClickUp, Notion, Confluence.<br>
 **Architecture & Design:** RESTful Web Services, Microservices, Clean Architecture, CQRS, Event-Driven Architecture.<br>
 **ML/DL & Data:** PyTorch, TensorFlow, DVC, Scikit-learn, Pandas, Matplotlib, Seaborn.<br>
 **Testing:** Jest, Pytest, PHPUnit, Cypress, Selenium, JMeter.<br>
-**UI/UX:** Figma, Design Sprints, User Testing.<br>
-**Other Highlight Skills <small>(over 2 years of experience)</small>:** Go, Next.js, Firebase, Supabase, OpenAI API, LangChain, LangGraph, Label Studio.<br>
 
 ## Frontend & UI/UX Specific Skills
 
@@ -31,6 +30,8 @@ Senior Frontend Developer with 12+ years of experience building user-centric app
 **Testing:** React Testing Library, Jest, Cypress, Selenium. <br>
 **Tooling:** Storybook, Webpack, Vite.<br>
 **DevOps for Frontend:** GitHub Actions, CircleCI, AWS ECR, Docker, Kubernetes, Expo.
+
+**Other Highlight Skills <small>(over 2 years of experience)</small>:** Go, Next.js, Firebase, Supabase, OpenAI API, LangChain, LangGraph, Label Studio.<br>
 
 ## Experience
 
@@ -112,8 +113,11 @@ Senior Frontend Developer with 12+ years of experience building user-centric app
 **Solutions Architect ([Plub](https://plub.com)) | Oct. 2025 - Present**
 
 * **Contributed to the re-engineering of the IaC codebase (Terraform)** to modularize and decouple the infrastructure state across components and services.
-* **Enabled ML/DL/LLM experiment execution capabilities** by designing and implementing processes for deploying and using AI models on serverless platforms such as Runpod and Hugging Face Inference Endpoints.
-* **Integrated new serverless AI models** into n8n automation workflows.
+* **Enabled ML/DL/LLM experiment execution capabilities** by designing and implementing processes for deploying and using AI models on serverless platforms such as MLflow, Runpod, and Hugging Face Inference Endpoints.  
+* **Integrated new serverless AI models** into n8n automation workflows.  
+* **Designed and implemented AI automation pipelines** for **fraudulent transaction detection** and **identification of removed or missing items in customer orders**, improving operational monitoring and anomaly detection.  
+* **Developed, trained, and deployed a machine learning–based recommendation model**, integrating it into backend services and automation workflows, resulting in a **2% revenue increase** through improved product discovery and personalization.  
+
 
 ## Certifications
 
