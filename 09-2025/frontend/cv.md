@@ -89,7 +89,7 @@ Senior Frontend Developer with 12+ years of experience building user-centric app
 
 ---
 
-**Senior Backend Software Engineer ([Plub](https://plub.com)) | Aug. 2025 - Present**
+**Senior Backend Software Engineer ([Plub](https://plub.com)) | Aug. 2024 - Oct. 2024**
 
 * **Contributed to the migration** of the core system from a monolithic architecture (Python, FastAPI) to a microservices architecture (TypeScript, NestJS).
 * **Defined code guidelines** for the implementation of clean architecture.
@@ -107,6 +107,12 @@ Senior Frontend Developer with 12+ years of experience building user-centric app
 * **Advised business teams on technical decisions**, improving operability and reducing infrastructure costs, while supporting other areas with development expertise.
 * **Streamlined deployments** across development, testing, and production using Go, Terraform, CircleCI, AWS ECR, and Kubernetes — eliminating bottlenecks through decentralization and reduced deployment times.
 
+---
+
+**Solutions Architect ([Plub](https://plub.com)) | Oct. 2025 - Present**
+
+* **Contributed to the re-engineering process of the IaaC codebase (Terraform)** to modularize and decouple the infrastructure state between components and services.
+* **Enable ML/DL/LLM experiment running capabilities** to the company by making and implements processes for deploying and usage of AI models in serverless services such as Runpod and Hugging Face Inference Endpoint.
 
 ## Certifications
 
